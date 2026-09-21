@@ -7,7 +7,6 @@ on:
 
 concurrency:
   group: corridas-sp
-  policy: latest
 
 jobs:
   scrape-and-report:
