@@ -16,9 +16,8 @@ node src/main.js --dry-run  # apenas lista os eventos encontrados
 
 ## Execução no GitHub Actions (recomendado)
 
-O workflow está em `.github/workflows/send-races.yml` e roda às **8h de São
-Paulo, de segunda a sexta** (`cron: '0 11 * * 1-5'`), além de ser disparável
-manualmente via `workflow_dispatch`.
+O workflow em `.github/workflows/send-races.yml` e roda às **8h de São
+Paulo, de segunda a sexta**
 
 
 ## Notas
