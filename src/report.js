@@ -28,7 +28,7 @@ function dedupe(events) {
 
 function buildBody(events) {
   if (!events.length) {
-    return '<p>Nenhuma corrida de rua em São Paulo capital foi encontrada hoje.</p>';
+    return '<p>Nenhuma corrida foi encontrada hoje.</p>';
   }
   const rows = events
     .slice()
@@ -49,7 +49,7 @@ function buildBody(events) {
       </tr>`;
     })
     .join('\n');
-  return `<p>Corridas de rua em São Paulo capital encontradas hoje:</p>
+  return `<p>Corridas em São Paulo-SP hoje:</p>
 <table style="border-collapse:collapse;width:100%;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
 ${rows}
 </table>
@@ -84,12 +84,53 @@ function generateReport(events) {
 </style>
 </head>
 <body>
-<h1>Corridas de Rua em São Paulo Capital</h1>
+<h1>Corridas de Rua em São Paulo - SP</h1>
 <p class="meta">Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)</p>
 ${body}
-<footer>Automatização — Corridas SP - via GIT</footer>
+<footer>Automatização — Corridas SP - by Julio Mishima CTAI)</footer>
 </body>
 </html>`;
 }
 
-module.exports = { generateReport, buildBody, dedupe, formatDate, escapeHtml };
+function generateMarkdown(events) {
+  const unique = dedupe(events);
+  const lines = [];
+  lines.push('# Corridas de Rua em São Paulo Capital');
+  lines.push('');
+  const now = new Date();
+  const dateStamp = now.toISOString().slice(0, 19).replace('T', ' ');
+  lines.push(`Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)`);
+  lines.push('');
+
+  if (!unique.length) {
+    lines.push('Nenhuma corrida de rua em São Paulo capital foi encontrada hoje.');
+    lines.push('');
+    lines.push('_Via GitHub Actions — Corridas SP - - by Julio Mishima CTAI)._');
+    return lines.join('\n');
+  }
+
+  lines.push('Corridas de rua em São Paulo SP hoje:');
+  lines.push('');
+  lines.push('| Evento | Data | Distâncias | Site | Organizador | Status |');
+  lines.push('| --- | --- | --- | --- | --- | --- |');
+
+  const sorted = [...unique].sort((a, b) => (a.date ? a.date.getTime() : 0) - (b.date ? b.date.getTime() : 0));
+  for (const e of sorted) {
+    const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';
+    const dateStr = formatDate(e.date, e.hasTime);
+    const title = e.link ? `[${escapeMd(e.title)}](${e.link})` : escapeMd(e.title);
+    const org = e.organizer ? escapeMd(e.organizer) : '-';
+    const status = e.status ? escapeMd(e.status) : '-';
+    lines.push(`| ${title} | ${escapeMd(dateStr)} | ${escapeMd(dist)} | ${escapeMd(e.source)} | ${org} | ${status} |`);
+  }
+
+  lines.push('');
+  lines.push('_Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._');
+  return lines.join('\n');
+}
+
+function escapeMd(s) {
+  return String(s || '').replace(/\|/g, '\\|').replace(/\n/g, ' ');
+}
+
+module.exports = { generateReport, generateMarkdown, buildBody, dedupe, formatDate, escapeHtml };

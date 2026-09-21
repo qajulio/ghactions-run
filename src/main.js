@@ -2,10 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const { scrapeAll } = require('./scrapers');
-const { generateReport, dedupe } = require('./report');
+const { generateReport, generateMarkdown, dedupe } = require('./report');
 
 const REPORT_DIR = path.join(__dirname, '..', 'docs');
 const REPORT_PATH = path.join(REPORT_DIR, 'index.html');
+const MD_PATH = path.join(REPORT_DIR, 'index.md');
 
 function ensureReportDir() {
   if (!fs.existsSync(REPORT_DIR)) {
@@ -44,7 +45,11 @@ async function main() {
 
   ensureReportDir();
   fs.writeFileSync(REPORT_PATH, html, 'utf-8');
-  console.log(`Relatório salvo em: ${REPORT_PATH}`);
+  console.log(`Relatório HTML salvo em: ${REPORT_PATH}`);
+
+  const md = generateMarkdown(unique);
+  fs.writeFileSync(MD_PATH, md, 'utf-8');
+  console.log(`Relatório Markdown salvo em: ${MD_PATH}`);
 }
 
 main().catch((err) => {
