@@ -1,6 +1,6 @@
 # Corridas de Rua em São Paulo Capital
 
-Gerado em: 2026-09-21 13:30:03 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-21 13:44:22 (horário de São Paulo — UTC-3)
 
 Corridas de rua em São Paulo SP hoje:
 
