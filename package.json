@@ -1,0 +1,1 @@
+{"name": "corridas-sp", "version": "1.0.0", "description": "Busca corridas de rua em São Paulo capital (iguanasports, ticketsports, etc.) e gera relatório HTML", "private": true, "scripts": {"start": "node src/main.js", "test": "node src/main.js --dry-run"}, "author": "", "license": "MIT", "dependencies": {"axios": "^1.7.7", "cheerio": "^1.0.0-rc.12"}}

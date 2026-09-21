@@ -1,0 +1,39 @@
+name: Corridas SP - via GIT
+
+on:
+  schedule:
+    - cron: '0 11 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: corridas-sp
+  policy: latest
+
+jobs:
+  scrape-and-report:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Sao_Paulo
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Buscar corridas e gerar relatório
+        run: node src/main.js
+
+      - name: Deploy no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages

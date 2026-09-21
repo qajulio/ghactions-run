@@ -1,0 +1,6 @@
+.env
+node_modules/
+docs/
+*.cache
+.DS_Store
+Thumbs.db
