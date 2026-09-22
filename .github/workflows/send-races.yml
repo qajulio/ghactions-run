@@ -43,23 +43,25 @@ jobs:
           script: |
             const fs = require('fs');
             let raceCount = 0;
-            let preview = '';
+            let reportContent = '';
             try {
               const md = fs.readFileSync('docs/index.md', 'utf-8');
               const lines = md.split('\n');
               const dataRows = lines.filter(l => l.startsWith('|') && !l.startsWith('| ---') && !l.startsWith('| Evento'));
               raceCount = dataRows.length;
-              const eventLines = dataRows.slice(0, 5).map(l => l.replace(/\|/g, ' ').trim()).join('\n');
-              preview = eventLines ? `\n\nPrimeiras corridas encontradas:\n\`\`\`\n${eventLines}\n\`\`\`` : '';
+              reportContent = md;
             } catch (e) {
-              preview = '\n\n⚠️ Não foi possível ler o relatório gerado.';
+              reportContent = '';
             }
             const today = new Date().toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+            const reportSection = reportContent
+              ? `\n\n---\n\n${reportContent}`
+              : '\n\n⚠️ Não foi possível ler o relatório gerado.';
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `📊 Report Run — ${today}`,
-              body: `Foram encontradas **${raceCount} corrida(s)** hoje.${preview}\n\nO relatório completo está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
+              body: `Foram encontradas **${raceCount} corrida(s)** hoje.${reportSection}\n\nO relatório completo com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
               assignees: ['qajulio'],
               labels: ['relatório', 'alerta']
             });
