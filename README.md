@@ -14,7 +14,7 @@ node src/main.js --dry-run  # apenas lista os eventos encontrados
 
 ---
 
-## Execução no GitHub Actions (recomendado)
+## Execução no GitHub Actions
 
 O workflow em `.github/workflows/send-races.yml` e roda às **8h de São
 Paulo, de segunda a sexta**

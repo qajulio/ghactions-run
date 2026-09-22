@@ -53,6 +53,8 @@
 - treino
 - kids
 - infantil
+- corridas modalidade infantil
+- corridas com cachorro
 
 ---
 
