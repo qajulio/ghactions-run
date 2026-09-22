@@ -2,7 +2,7 @@ name: Corridas SP - via GitHubActions
 
 on:
   schedule:
-    - cron: '0 11 * * 1-5'
+    - cron: '0 08 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -58,8 +58,9 @@ jobs:
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `📊 Relatório de Corridas — ${today}`,
-              body: `Foram encontradas **${raceCount} corrida(s)** hoje em São Paulo-SP.${preview}\n\nO relatório completo está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
+              title: `📊 Report Run — ${today}`,
+              body: `Foram encontradas **${raceCount} corrida(s)** hoje.${preview}\n\nO relatório completo está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
+              assignees: ['qajulio'],
               labels: ['relatório', 'alerta']
             });
 
