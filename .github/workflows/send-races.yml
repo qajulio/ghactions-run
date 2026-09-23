@@ -67,7 +67,7 @@ jobs:
               title: `📊 ${today} - Report Run`,
               body: `Corrida(s) **${raceCount} ** hoje.${reportSection}\n\nO relatório completo com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
               assignees: ['qajulio'],
-              labels: ['relatório', 'alerta']
+              labels: ['runreport']
             });
 
       - name: Deploy no GitHub Pages
