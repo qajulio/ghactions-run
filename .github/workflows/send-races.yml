@@ -57,7 +57,7 @@ jobs:
             const day = String(spDate.getDate()).padStart(2, '0');
             const month = String(spDate.getMonth() + 1).padStart(2, '0');
             const year = spDate.getFullYear();
-            const today = `${day}/${month}/${year}/${month}/${day}`;
+            const today = `${year}/${month}/${day}`;
             const reportSection = reportContent
               ? `\n\n---\n\n${reportContent}`
               : '\n\n⚠️ Não foi possível ler o relatório gerado.';
@@ -65,7 +65,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `📊 ${today} - Report Run`,
-              body: `Foram encontradas **${raceCount} corrida(s)** hoje.${reportSection}\n\nO relatório completo com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
+              body: `Corrida(s) **${raceCount} ** hoje.${reportSection}\n\nO relatório completo com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
               assignees: ['qajulio'],
               labels: ['relatório', 'alerta']
             });
