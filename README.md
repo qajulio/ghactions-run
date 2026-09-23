@@ -1,17 +1,7 @@
 # Corridas SP (By GIThubActions)
 
-Automação de **corridas em São Paulo capital** em sites esportivos `.kilo/spec.md` para repot de Corridas!
+Automação de **corridas em São Paulo capital** em sites esportivos para repot de Corridas!
 By Julio Mishima (uso interno/pessoal)
----
-
-## Execução local
-
-```bash
-npm install
-node src/main.js            # busca e gera o relatório em docs/index.html
-node src/main.js --dry-run  # apenas lista os eventos encontrados
-```
-
 ---
 
 ## Execução no GitHub Actions
