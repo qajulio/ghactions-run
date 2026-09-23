@@ -56,7 +56,7 @@ function formatPrice(price) {
 
 function buildBody(events) {
   if (!events.length) {
-    return '<p>Nenhuma corrida foi encontrada hoje.</p>';
+    return '<p>Nenhuma corrida encontrada.</p>';
   }
   const grouped = groupByDateAndCity(events);
   const dateGroups = grouped.map((g) => {
@@ -67,15 +67,13 @@ function buildBody(events) {
         const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';
         const dateStr = formatDate(e.date, e.hasTime);
         const priceStr = formatPrice(e.price);
-        const extra = e.status ? `<br><strong>Status:</strong> ${escapeHtml(e.status)}` : '';
-        const org = e.organizer ? `<br><strong>Organizador:</strong> ${escapeHtml(e.organizer)}` : '';
         const link = e.link ? `<a href="${e.link}">${escapeHtml(e.title)}</a>` : escapeHtml(e.title);
         return `<tr>
           <td style="padding:8px;border-bottom:1px solid #eee;vertical-align:top;">
             <strong>${link}</strong><br>
             <strong>Data:</strong> ${escapeHtml(dateStr)}<br>
             <strong>Distâncias:</strong> ${escapeHtml(dist)}<br>
-            <strong>Site:</strong> ${escapeHtml(e.source)}${org}${extra}<br>
+             <strong>Site:</strong> ${escapeHtml(e.source)}<br>
             <strong>Valor da inscrição:</strong> ${escapeHtml(priceStr)}
           </td>
         </tr>`;
@@ -90,7 +88,7 @@ ${cityHtml}`;
   }).join('\n');
   return `<p>Corridas em São Paulo-SP hoje:</p>
 ${dateGroups}
-<p style="color:#555;font-size:12px;">Gerado automaticamente via GitHub Actions — <em>Corridas SP </em>.</p>`;
+<p style="color:#555;font-size:12px;">Gerado via GitHub Actions — <em>Corridas SP </em>.</p>`;
 }
 
 function escapeHtml(s) {
@@ -121,7 +119,7 @@ function generateReport(events) {
 </style>
 </head>
 <body>
-<h1>Corridas de Rua em São Paulo - SP</h1>
+<h1>Corridas em São Paulo - SP</h1>
 <p class="meta">Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)</p>
 ${body}
 <footer>Automatização — Corridas SP - by Julio Mishima CTAI)</footer>
@@ -132,7 +130,7 @@ ${body}
 function generateMarkdown(events) {
   const unique = dedupe(events);
   const lines = [];
-  lines.push('# Corridas de Rua em São Paulo Capital');
+  lines.push('# Corridas em São Paulo SP');
   lines.push('');
   const now = new Date();
   const dateStamp = now.toISOString().slice(0, 19).replace('T', ' ');
@@ -140,13 +138,13 @@ function generateMarkdown(events) {
   lines.push('');
 
   if (!unique.length) {
-    lines.push('Nenhuma corrida de rua em São Paulo capital foi encontrada hoje.');
+    lines.push('Nenhuma corrida em São Paulo SP foi encontrada hoje.');
     lines.push('');
     lines.push('_Via GitHub Actions — Corridas SP - - by Julio Mishima CTAI)._');
     return lines.join('\n');
   }
 
-  lines.push('Corridas de rua em São Paulo SP hoje:');
+  lines.push('Corridas em São Paulo SP hoje:');
   lines.push('');
 
   const grouped = groupByDateAndCity(unique);
@@ -158,16 +156,14 @@ function generateMarkdown(events) {
     for (const [city, cityEvents] of cityEntries) {
       lines.push(`### ${city}`);
       lines.push('');
-      lines.push('| Evento | Data | Distâncias | Site | Organizador | Status | Valor da inscrição |');
-      lines.push('| --- | --- | --- | --- | --- | --- | --- |');
+      lines.push('| Evento | Data | Distâncias | Site | Valor da inscrição |');
+      lines.push('| --- | --- | --- | --- | --- |');
       for (const e of cityEvents) {
         const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';
         const dateStr = formatDate(e.date, e.hasTime);
         const title = e.link ? `[${escapeMd(e.title)}](${e.link})` : escapeMd(e.title);
-        const org = e.organizer ? escapeMd(e.organizer) : '-';
-        const status = e.status ? escapeMd(e.status) : '-';
         const priceStr = formatPrice(e.price);
-        lines.push(`| ${title} | ${escapeMd(dateStr)} | ${escapeMd(dist)} | ${escapeMd(e.source)} | ${org} | ${status} | ${escapeMd(priceStr)} |`);
+        lines.push(`| ${title} | ${escapeMd(dateStr)} | ${escapeMd(dist)} | ${escapeMd(e.source)} | ${escapeMd(priceStr)} |`);
       }
       lines.push('');
     }
