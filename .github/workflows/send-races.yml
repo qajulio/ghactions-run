@@ -1,4 +1,4 @@
-name: Corridas SP - via GitHubActions
+name: Corridas SP - GitHubActions v260923
 
 on:
   schedule:
