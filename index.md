@@ -1,6 +1,6 @@
 # Corridas em São Paulo SP (2026/Sep/23)
 
-Gerado em: 2026-09-23 14:16:42 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-23 14:35:21 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
