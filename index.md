@@ -1,6 +1,6 @@
 # Corridas de Rua em São Paulo Capital
 
-Gerado em: 2026-09-22 19:32:50 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-23 13:06:48 (horário de São Paulo — UTC-3)
 
 Corridas de rua em São Paulo SP hoje:
 
@@ -10,11 +10,8 @@ Corridas de rua em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Organizador | Status | Valor da inscrição |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ETAPA LEBRE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+LEBRE+-+Circuito+ZOO+RUN-85364) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | Ironstorm Run | Aberto | A consultar |
 | [CIRCUITO DESBRAVA - SÃO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DESBRAVA+-+S%C3%83O+PAULO+2026-85560) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | X3M | Aberto | A consultar |
-| [C6 BANK LAUF RUN 2026](https://www.ticketsports.com.br/e/C6+BANK+LAUF+RUN+2026-87077) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | ZION SPORTS EVENTOS | Aberto | A consultar |
 | [CORRIDA JUNTOS PELA VIDA](https://www.ticketsports.com.br/e/CORRIDA+JUNTOS+PELA+VIDA+-87922) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | GRUPHO FF EVENTOS | Aberto | A consultar |
-| [BIMBO GLOBAL RACE 2026 - SÃO PAULO](https://www.ticketsports.com.br/e/BIMBO+GLOBAL+RACE+2026+-+S%C3%83O+PAULO-87478) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | Sagaz Esportes | Aberto | A consultar |
 | [2ª INTERMOVIMENTO A CORRIDA DO SHOPPING INTERLAGOS](https://www.ticketsports.com.br/e/2%C2%AA+INTERMOVIMENTO+A+CORRIDA+DO+SHOPPING+INTERLAGOS-87215) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | Sagaz Esportes | Aberto | A consultar |
 | [ELFO RUNNERS 5KM](https://www.ticketsports.com.br/e/ELFO+RUNNERS+5KM-87236) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | Prof° Neuri Dantas | Aberto | A consultar |
 
@@ -34,7 +31,6 @@ Corridas de rua em São Paulo SP hoje:
 | --- | --- | --- | --- | --- | --- | --- |
 | [1ª STORM RUN - WOMANS EDITION](https://www.ticketsports.com.br/e/+1%C2%AA+STORM+RUN+-+WOMANS+EDITION-86568) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | Sagaz Esportes | Aberto | A consultar |
 | [SÃO PAULO RUN 5KM](https://www.ticketsports.com.br/e/S%C3%83O+PAULO+RUN+5KM-88049) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | Prof° Neuri Dantas | Aberto | A consultar |
-| [8ª SP PINK RUN](https://www.ticketsports.com.br/e/8%C2%AA+SP+PINK+RUN-88110) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | Fuse Eventos Esportivos | Aberto | A consultar |
 
 ## sábado, 10 de outubro de 2026
 
