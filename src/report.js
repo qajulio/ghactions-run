@@ -97,6 +97,12 @@ function escapeHtml(s) {
   }[c]));
 }
 
+const MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+function formatDateStamp(date) {
+  return `${String(date.getFullYear())}/${MONTHS_EN[date.getMonth()]}/${String(date.getDate()).padStart(2, '0')}`;
+}
+
 function generateReport(events) {
   const unique = dedupe(events);
   const body = buildBody(unique);
@@ -119,7 +125,7 @@ function generateReport(events) {
 </style>
 </head>
 <body>
-<h1>Corridas em São Paulo - SP</h1>
+<h1>Corridas em São Paulo - SP (${formatDateStamp(now)})</h1>
 <p class="meta">Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)</p>
 ${body}
 <footer>Automatização — Corridas SP - by Julio Mishima CTAI)</footer>
@@ -129,10 +135,10 @@ ${body}
 
 function generateMarkdown(events) {
   const unique = dedupe(events);
-  const lines = [];
-  lines.push('# Corridas em São Paulo SP');
-  lines.push('');
   const now = new Date();
+  const lines = [];
+  lines.push(`# Corridas em São Paulo SP (${formatDateStamp(now)})`);
+  lines.push('');
   const dateStamp = now.toISOString().slice(0, 19).replace('T', ' ');
   lines.push(`Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)`);
   lines.push('');
@@ -177,4 +183,4 @@ function escapeMd(s) {
   return String(s || '').replace(/\|/g, '\\|').replace(/\n/g, ' ');
 }
 
-module.exports = { generateReport, generateMarkdown, buildBody, dedupe, formatDate, escapeHtml, groupByDateAndCity, formatPrice };
+module.exports = { generateReport, generateMarkdown, buildBody, dedupe, formatDate, escapeHtml, groupByDateAndCity, formatPrice, formatDateStamp };
