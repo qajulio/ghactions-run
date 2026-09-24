@@ -86,9 +86,9 @@ ${rows}
     return `<h2 style="color:#333;border-bottom:1px solid #ddd;padding-bottom:6px;margin-top:24px;">${escapeHtml(dateStr)}</h2>
 ${cityHtml}`;
   }).join('\n');
-  return `<p>Corridas em São Paulo-SP hoje:</p>
+  return `<p>Corridas em São Paulo-SP:</p>
 ${dateGroups}
-<p style="color:#555;font-size:12px;">Gerado via GitHub Actions — <em>Corridas SP </em>.</p>`;
+<p style="color:#555;font-size:12px;">By GitHub Actions — <em>Corridas SP </em>.</p>`;
 }
 
 function escapeHtml(s) {
@@ -144,9 +144,9 @@ function generateMarkdown(events) {
   lines.push('');
 
   if (!unique.length) {
-    lines.push('Nenhuma corrida em São Paulo SP foi encontrada hoje.');
+    lines.push('Nenhuma corrida em São Paulo SP.');
     lines.push('');
-    lines.push('_Via GitHub Actions — Corridas SP - - by Julio Mishima CTAI)._');
+    lines.push('_Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._');
     return lines.join('\n');
   }
 
@@ -162,7 +162,7 @@ function generateMarkdown(events) {
     for (const [city, cityEvents] of cityEntries) {
       lines.push(`### ${city}`);
       lines.push('');
-      lines.push('| Evento | Data | Distâncias | Site | Valor da inscrição |');
+      lines.push('| Evento | Data | Distâncias | Site | Valor |');
       lines.push('| --- | --- | --- | --- | --- |');
       for (const e of cityEvents) {
         const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';

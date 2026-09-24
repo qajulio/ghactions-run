@@ -2,8 +2,10 @@ name: Corridas SP - GitHubActions v260923
 
 on:
   schedule:
-    - cron: '0 08 * * 1-5'
+    - cron: '0 07 * * 1-5'
   workflow_dispatch:
+
+#roda 7am seg-sex
 
 permissions:
   contents: write
@@ -66,8 +68,8 @@ jobs:
               repo: context.repo.repo,
               title: `📊 ${today} - Report Run`,
               body: `Corrida(s) **${raceCount} ** hoje.${reportSection}\n\nO relatório completo com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
-              assignees: ['qajulio'],
-              labels: ['runreport']
+              assignees: ['juliomobi'],
+              labels: ['reportrun']
             });
 
       - name: Deploy no GitHub Pages
