@@ -1,6 +1,6 @@
 # Corridas em São Paulo SP (2026/Sep/24)
 
-Gerado em: 2026-09-24 11:12:44 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-24 11:58:39 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -8,7 +8,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [CIRCUITO DESBRAVA - SÃO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DESBRAVA+-+S%C3%83O+PAULO+2026-85560) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA JUNTOS PELA VIDA](https://www.ticketsports.com.br/e/CORRIDA+JUNTOS+PELA+VIDA+-87922) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -17,7 +17,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [TROPICAL RUN 3KM](https://www.ticketsports.com.br/e/TROPICAL+RUN+3KM-88050) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -25,7 +25,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [1ª STORM RUN - WOMANS EDITION](https://www.ticketsports.com.br/e/+1%C2%AA+STORM+RUN+-+WOMANS+EDITION-86568) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [SÃO PAULO RUN 5KM](https://www.ticketsports.com.br/e/S%C3%83O+PAULO+RUN+5KM-88049) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | A consultar |
@@ -34,7 +34,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [RUN FOR YOUR LIVES - A CORRIDA OFICIAL DO IRON MAIDEN (SÃO PAULO)](https://www.ticketsports.com.br/e/RUN+FOR+YOUR+LIVES+-+A+CORRIDA+OFICIAL+DO+IRON+MAIDEN+(S%C3%83O+PAULO)-86903) | sábado, 10 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -42,7 +42,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [64ª CORRIDA E CAMINHADA CONTRA O CÂNCER DE MAMA SÃO PAULO](https://www.ticketsports.com.br/e/64%C2%AA+CORRIDA+E+CAMINHADA+CONTRA+O+C%C3%82NCER+DE+MAMA+S%C3%83O+PAULO-87150) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [2º TROTE DO MAZZEI](https://www.ticketsports.com.br/e/2%C2%BA+TROTE+DO+MAZZEI-88176) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
@@ -57,7 +57,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [APARECIDA RUN 2026](https://www.ticketsports.com.br/e/APARECIDA+RUN+2026-88039) | segunda-feira, 12 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA KIDS TRIMAIS PLACES 6º EDIÇÃO](https://www.ticketsports.com.br/e/CORRIDA+KIDS+TRIMAIS+PLACES+6%C2%BA+EDI%C3%87%C3%83O-88357) | segunda-feira, 12 de outubro de 2026 | - | ticketsports.com.br | A consultar |
@@ -66,7 +66,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [ROSAS RUN 3KM](https://www.ticketsports.com.br/e/ROSAS+RUN+3KM-88041) | sábado, 17 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -74,7 +74,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [URBAN TRAIL RUN - ETAPA 2 PARQUE HORTO FLORESTAL](https://www.ticketsports.com.br/e/URBAN+TRAIL+RUN+-+ETAPA+2+PARQUE+HORTO+FLORESTAL-85142) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [HOPE RUN 2026](https://www.ticketsports.com.br/e/HOPE+RUN+2026-87744) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
@@ -89,7 +89,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [7º AGITA ZONA SUL -  CORRIDA DE RUA E CAMINHADA](https://www.ticketsports.com.br/e/7%C2%BA+AGITA+ZONA+SUL+-++CORRIDA+DE+RUA+E+CAMINHADA-88084) | domingo, 25 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [HALLOWEEN RUN 5KM](https://www.ticketsports.com.br/e/HALLOWEEN+RUN+5KM-88011) | domingo, 25 de outubro de 2026 | - | ticketsports.com.br | A consultar |
@@ -98,7 +98,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [2ª CORRIDA ASSOMBRADA 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+ASSOMBRADA+2026-88094) | sábado, 31 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -106,7 +106,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [BTG PACTUAL BIKE SERIES SÃO PAULO 2026](https://www.ticketsports.com.br/e/BTG+PACTUAL+BIKE+SERIES+S%C3%83O+PAULO+2026-72055) | domingo, 01 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [2ª CORRIDA MENINAS MALVADAS RUN 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+MENINAS+MALVADAS+RUN+2026-88103) | domingo, 01 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -116,7 +116,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [ROCK  RUN 5KM](https://www.ticketsports.com.br/e/ROCK++RUN+5KM-88028) | segunda-feira, 02 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -124,7 +124,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [MACKRUN  2026 - ETAPA SÃO PAULO](https://www.ticketsports.com.br/e/MACKRUN++2026+-+ETAPA+S%C3%83O+PAULO-85754) | sábado, 07 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -132,7 +132,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [5ª CORRIDA E CAMINHADA UM SÓ SANGUE](https://www.ticketsports.com.br/e/5%C2%AA+CORRIDA+E+CAMINHADA+UM+S%C3%93+SANGUE-85593) | domingo, 08 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [RUN RUN POWER RANGERS \| SÃO PAULO](https://www.ticketsports.com.br/e/RUN+RUN+POWER+RANGERS+%7C+S%C3%83O+PAULO-87451) | domingo, 08 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -142,7 +142,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [LOST AND FOUND FESTIVAL](https://www.ticketsports.com.br/e/LOST+AND+FOUND+FESTIVAL-86300) | sábado, 14 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -150,7 +150,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [DESAFIO MINALBA 2026](https://www.ticketsports.com.br/e/DESAFIO+MINALBA+2026-74653) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -163,7 +163,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [CORRIDA KILOMBO - 2026](https://www.ticketsports.com.br/e/CORRIDA+KILOMBO+-+2026+-87079) | sexta-feira, 20 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CONSCIÊNCIA RUN 5KM](https://www.ticketsports.com.br/e/CONSCI%C3%8ANCIA+RUN+5KM-88031) | sexta-feira, 20 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -172,7 +172,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [ESPIÃS RUN 5KM](https://www.ticketsports.com.br/e/ESPI%C3%83S+RUN+5KM-88012) | sábado, 21 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -181,7 +181,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [MARATONAS MAJORS INTERIOR](https://www.ticketsports.com.br/e/MARATONAS+MAJORS+INTERIOR-87073) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [STORM RIDERS - ETAPA 7](https://www.ticketsports.com.br/e/STORM+RIDERS+-+ETAPA+7-74867) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -192,7 +192,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -205,7 +205,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [INCLUSÃO A TODA PROVA  - SP 2026](https://www.ticketsports.com.br/e/INCLUS%C3%83O+A+TODA+PROVA++-+SP+2026-85925) | domingo, 06 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [AGEN RUN 4KM E 8KM - CERET](https://www.ticketsports.com.br/e/AGEN+RUN+4KM+E+8KM+-+CERET-87878) | domingo, 06 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -214,7 +214,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [ALEGRIA RUNNERS 5KM ...OU QUASE ISSO!!](https://www.ticketsports.com.br/e/ALEGRIA+RUNNERS+5KM+...OU+QUASE+ISSO!!-87101) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CLUBE TRIATHLON SP 2026](https://www.ticketsports.com.br/e/CLUBE+TRIATHLON+SP+2026-74775) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -223,7 +223,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [59ª SARGENTO GONZAGUINHA - CORRIDA DE SÃO PAULO](https://www.ticketsports.com.br/e/59%C2%AA+SARGENTO+GONZAGUINHA+-+CORRIDA+DE+S%C3%83O+PAULO-87155) | domingo, 13 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [25ª CORRIDA PELA CIDADANIA](https://www.ticketsports.com.br/e/25%C2%AA+CORRIDA+PELA+CIDADANIA-87568) | domingo, 13 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -234,7 +234,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [Barbie Run São Paulo](https://yescom.com.br/barbierun/2026/sp/index.html) | sábado, 19 de dezembro de 2026 | - | yescom.com.br | A consultar |
 | [1ª Hot Wheels Run](https://www.yescom.com.br/#) | sábado, 19 de dezembro de 2026 | - | yescom.com.br | A consultar |
@@ -243,7 +243,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [CORRIDA DO NARUTO - SÃO PAULO](https://www.ticketsports.com.br/e/CORRIDA+DO+NARUTO+-+S%C3%83O+PAULO-88258) | domingo, 20 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [5º JESUS LIVE RUN - CORRIDA DE RUA E CAMINHADA](https://www.ticketsports.com.br/e/5%C2%BA+JESUS+LIVE+RUN+-+CORRIDA+DE+RUA+E+CAMINHADA-88474) | domingo, 20 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
@@ -254,7 +254,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [2ª CORRIDA RÉVEILLON RUN 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+R%C3%89VEILLON+RUN+2026-88096) | domingo, 27 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -262,7 +262,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [FILIAÇÃO 2026 (BARCO) - ASSOCIAÇÃO BRASILEIRA DE WAKEBOARD](https://www.ticketsports.com.br/e/FILIA%C3%87%C3%83O+2026+(BARCO)+-+ASSOCIA%C3%87%C3%83O+BRASILEIRA+DE+WAKEBOARD-85806) | quinta-feira, 31 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -270,7 +270,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [20ª Meia Maratona Int'l de São Paulo](https://www.yescom.com.br/meiasp/2027/index.asp) | domingo, 24 de janeiro de 2027 | - | yescom.com.br | A consultar |
 
@@ -278,7 +278,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | - | ticketsports.com.br | A consultar |
 
@@ -286,7 +286,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | - | ticketsports.com.br | A consultar |
 
@@ -294,7 +294,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [11ª Maratoninha de São Paulo](https://www.yescom.com.br/#) | sábado, 03 de abril de 2027 | - | yescom.com.br | A consultar |
 | [31ª Maratona Int'l de São Paulo - 2ª Corrida das Nações](https://www.yescom.com.br/maratonasp/2027/index.asp) | sábado, 03 de abril de 2027 | - | yescom.com.br | A consultar |
@@ -303,7 +303,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [31ª Maratona Int'l de São Paulo](https://www.yescom.com.br/maratonasp/2027/index.asp) | domingo, 04 de abril de 2027 | - | yescom.com.br | A consultar |
 
@@ -311,7 +311,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [HOKA SPEED RUN 2027 - SÃO PAULO](https://www.ticketsports.com.br/e/HOKA+SPEED+RUN+2027+-+S%C3%83O+PAULO-87617) | domingo, 04 de julho de 2027 | - | ticketsports.com.br | A consultar |
 
@@ -319,7 +319,7 @@ Corridas em São Paulo SP hoje:
 
 ### São Paulo
 
-| Evento | Data | Distâncias | Site | Valor da inscrição |
+| Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | 21.1K, 42.2K | iguanasports.com.br | A consultar |
 
