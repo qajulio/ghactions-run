@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Sep/23)
+# Corridas em São Paulo SP (2026/Sep/24)
 
-Gerado em: 2026-09-23 14:35:21 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-24 11:12:44 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -12,8 +12,6 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- | --- | --- |
 | [CIRCUITO DESBRAVA - SÃO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DESBRAVA+-+S%C3%83O+PAULO+2026-85560) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA JUNTOS PELA VIDA](https://www.ticketsports.com.br/e/CORRIDA+JUNTOS+PELA+VIDA+-87922) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
-| [2ª INTERMOVIMENTO A CORRIDA DO SHOPPING INTERLAGOS](https://www.ticketsports.com.br/e/2%C2%AA+INTERMOVIMENTO+A+CORRIDA+DO+SHOPPING+INTERLAGOS-87215) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
-| [ELFO RUNNERS 5KM](https://www.ticketsports.com.br/e/ELFO+RUNNERS+5KM-87236) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 03 de outubro de 2026
 
@@ -282,7 +280,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor da inscrição |
 | --- | --- | --- | --- | --- |
-| [TROFÉU CIDADE DE SÃO PAULO  2027](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO++2027-87541) | segunda-feira, 25 de janeiro de 2027 | - | ticketsports.com.br | A consultar |
+| [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 21 de fevereiro de 2027
 
