@@ -1,17 +1,16 @@
-# Corridas em São Paulo SP (2026/Sep/24)
+# Corridas em São Paulo SP (2026/Sep/25)
 
-Gerado em: 2026-09-24 11:58:39 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-25 12:24:12 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
-## domingo, 27 de setembro de 2026
+## sábado, 26 de setembro de 2026
 
 ### São Paulo
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
-| [CIRCUITO DESBRAVA - SÃO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DESBRAVA+-+S%C3%83O+PAULO+2026-85560) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
-| [CORRIDA JUNTOS PELA VIDA](https://www.ticketsports.com.br/e/CORRIDA+JUNTOS+PELA+VIDA+-87922) | domingo, 27 de setembro de 2026 | - | ticketsports.com.br | A consultar |
+| [NIGHT RUN  NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/NIGHT+RUN++NOVO+RIO+PINHEIROS-88070) | sábado, 26 de setembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 03 de outubro de 2026
 
@@ -19,7 +18,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
-| [TROPICAL RUN 3KM](https://www.ticketsports.com.br/e/TROPICAL+RUN+3KM-88050) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [NIGHT RUN PINHEIROS MUSIC](https://www.ticketsports.com.br/e/NIGHT+RUN+PINHEIROS+MUSIC-88520) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 04 de outubro de 2026
 
@@ -101,6 +100,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [2ª CORRIDA ASSOMBRADA 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+ASSOMBRADA+2026-88094) | sábado, 31 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [3ª NIGHT RUN PARQUE DO TROTE](https://www.ticketsports.com.br/e/3%C2%AA+NIGHT+RUN+PARQUE+DO+TROTE-88551) | sábado, 31 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 01 de novembro de 2026
 
@@ -108,6 +108,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [1ª PARQUE RUN - ETAPA BRUNO COVAS](https://www.ticketsports.com.br/e/1%C2%AA+PARQUE+RUN+-+ETAPA+BRUNO+COVAS+-88552) | domingo, 01 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [BTG PACTUAL BIKE SERIES SÃO PAULO 2026](https://www.ticketsports.com.br/e/BTG+PACTUAL+BIKE+SERIES+S%C3%83O+PAULO+2026-72055) | domingo, 01 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [2ª CORRIDA MENINAS MALVADAS RUN 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+MENINAS+MALVADAS+RUN+2026-88103) | domingo, 01 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [32ª Corrida Mulher-Maravilha São Paulo](https://www.yescom.com.br/corridamulhermaravilha/2026/saopaulo/index.html) | domingo, 01 de novembro de 2026 | - | yescom.com.br | A consultar |
@@ -322,5 +323,13 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | 21.1K, 42.2K | iguanasports.com.br | A consultar |
+
+## domingo, 19 de setembro de 2027
+
+### São Paulo
+
+| Evento | Data | Distâncias | Site | Valor |
+| --- | --- | --- | --- | --- |
+| [2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo](https://www.ticketsports.com.br/e/2027+Nubank+Ultravioleta+IRONMAN+70.3+S%C3%A3o+Paulo-88393) | domingo, 19 de setembro de 2027 | - | ticketsports.com.br | A consultar |
 
 _Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._
